@@ -14,7 +14,7 @@ def generate_ai_response(prompt):
     ]
     return random.choice(responses)
 
-st.title("Chat Dum-E-E.")
+st.title("Chat Dum-E-E?")
 st.caption("Generally stupid conversational AI")
 
 # Initialize chat history
