@@ -16,9 +16,8 @@ if calc:
     st.session_state.history.append(N)
     st.write(f"total calculated = {st.session_state.total}")
     st.write("history:", st.session_state.history)
-
-if clear:
+elif clear:
     st.session_state.total = 0.0
     st.session_state.history = []
     st.write(f"total calculated = {st.session_state.total}")
-    st.write("history:", st.session_state.history)
+    st.text("history:", st.session_state.history)
