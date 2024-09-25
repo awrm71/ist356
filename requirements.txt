@@ -1,13 +1,6 @@
 pytest
-<<<<<<< HEAD
 streamlit
 ipywidgets
 pillow
-<<<<<<< HEAD
-=======
+emoji
 pandas
-emjoi
->>>>>>> 3724dfac96ad0231ba91d310fbfd87e6b7a459e8
-=======
-pandas
->>>>>>> 80b0266527e55e054f41d2f2704d7b6d7c393c90
