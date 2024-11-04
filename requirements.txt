@@ -2,6 +2,7 @@ pytest
 streamlit
 ipywidgets
 pillow
+emoji
 pandas
 requests
 fastapi[all]
